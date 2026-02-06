@@ -1,0 +1,252 @@
+{
+  "category": "World Junior Records",
+  "gender": "Boys",
+  "authority": "World Aquatics",
+  "source": "SwimSwam",
+  "last_verified": "2026-02-06",
+  "records": [
+    {
+      "event": "50 Freestyle",
+      "course": "SCM",
+      "time": "20.84",
+      "time_seconds": 20.84,
+      "athlete": "Nikita Sheremet",
+      "country": "UKR",
+      "date": "2025-12-02",
+      "meet": "2025 Short Course European Championships",
+      "location": "Lublin, Poland"
+    },
+    {
+      "event": "100 Freestyle",
+      "course": "SCM",
+      "time": "45.64",
+      "time_seconds": 45.64,
+      "athlete": "David Popovici",
+      "country": "ROU",
+      "date": "2022-12-15",
+      "meet": "2022 Short Course World Championships",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "event": "200 Freestyle",
+      "course": "SCM",
+      "time": "1:40.65",
+      "time_seconds": 100.65,
+      "athlete": "Matt Sates",
+      "country": "RSA",
+      "date": "2021-10-07",
+      "meet": "2021 World Cup",
+      "location": "Berlin, Germany"
+    },
+    {
+      "event": "400 Freestyle",
+      "course": "SCM",
+      "time": "3:36.57",
+      "time_seconds": 216.57,
+      "athlete": "Grigorii Vekovischev",
+      "country": "RUS",
+      "date": "2025-11-09",
+      "meet": "2025 Russian Short Course Nationals",
+      "location": "Kazan, Russia"
+    },
+    {
+      "event": "800 Freestyle",
+      "course": "SCM",
+      "time": "7:36.00",
+      "time_seconds": 456.0,
+      "athlete": "Sven Schwarz",
+      "country": "GER",
+      "date": "2019-11-16",
+      "meet": "2019 German SC National Championships",
+      "location": "Berlin, Germany"
+    },
+    {
+      "event": "1500 Freestyle",
+      "course": "SCM",
+      "time": "14:20.64",
+      "time_seconds": 860.64,
+      "athlete": "Kuzey Tuncelli",
+      "country": "TUR",
+      "date": "2024-12-10",
+      "meet": "2024 World Championships",
+      "location": "Budapest, Hungary"
+    },
+    {
+      "event": "50 Backstroke",
+      "course": "SCM",
+      "time": "22.47",
+      "time_seconds": 22.47,
+      "athlete": "Miron Lifintsev",
+      "country": "RUS",
+      "date": "2024-12-13",
+      "meet": "2024 World Championships",
+      "location": "Budapest, Hungary"
+    },
+    {
+      "event": "100 Backstroke",
+      "course": "SCM",
+      "time": "48.76",
+      "time_seconds": 48.76,
+      "athlete": "Miron Lifintsev",
+      "country": "RUS",
+      "date": "2024-12-11",
+      "meet": "2024 World Championships",
+      "location": "Budapest, Hungary"
+    },
+    {
+      "event": "200 Backstroke",
+      "course": "SCM",
+      "time": "1:47.89",
+      "time_seconds": 107.89,
+      "athlete": "John Shortt",
+      "country": "IRL",
+      "date": "2025-12-03",
+      "meet": "2025 European Championships",
+      "location": "Lublin, Poland"
+    },
+    {
+      "event": "50 Breaststroke",
+      "course": "SCM",
+      "time": "25.66",
+      "time_seconds": 25.66,
+      "athlete": "Chris Smith",
+      "country": "RSA",
+      "date": "2024-12-14",
+      "meet": "2024 World Championships",
+      "location": "Budapest, Hungary"
+    },
+    {
+      "event": "100 Breaststroke",
+      "course": "SCM",
+      "time": "56.66",
+      "time_seconds": 56.66,
+      "athlete": "Simone Cerasuolo",
+      "country": "ITA",
+      "date": "2021-12-01",
+      "meet": "2021 Italian SC Championships",
+      "location": "Riccione, Italy"
+    },
+    {
+      "event": "200 Breaststroke",
+      "course": "SCM",
+      "time": "2:02.03",
+      "time_seconds": 122.03,
+      "athlete": "Shin Ohashi",
+      "country": "JPN",
+      "date": "2025-10-25",
+      "meet": "2025 World Cup",
+      "location": "Toronto, Canada"
+    },
+    {
+      "event": "50 Butterfly",
+      "course": "SCM",
+      "time": "22.28",
+      "time_seconds": 22.28,
+      "athlete": "Ilya Kharun",
+      "country": "CAN",
+      "date": "2022-12-13",
+      "meet": "2022 Short Course World Championships",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "event": "100 Butterfly",
+      "course": "SCM",
+      "time": "49.03",
+      "time_seconds": 49.03,
+      "athlete": "Ilya Kharun",
+      "country": "CAN",
+      "date": "2022-12-18",
+      "meet": "2022 Short Course World Championships",
+      "location": "Melbourne, Australia"
+    },
+    {
+      "event": "200 Butterfly",
+      "course": "SCM",
+      "time": "1:49.61",
+      "time_seconds": 109.61,
+      "athlete": "Chen Juner",
+      "country": "CHI",
+      "date": "2022-10-28",
+      "meet": "2022 Chinese Championships",
+      "location": "Beijing, China"
+    },
+    {
+      "event": "100 Individual Medley",
+      "course": "SCM",
+      "time": "50.63",
+      "time_seconds": 50.63,
+      "athlete": "Kliment Kolesnikov",
+      "country": "RUS",
+      "date": "2018-12-14",
+      "meet": "2018 Short Course World Championships",
+      "location": "Hangzhou, China"
+    },
+    {
+      "event": "200 Individual Medley",
+      "course": "SCM",
+      "time": "1:51.45",
+      "time_seconds": 111.45,
+      "athlete": "Matt Sates",
+      "country": "RSA",
+      "date": "2021-10-03",
+      "meet": "2021 World Cup",
+      "location": "Berlin, Germany"
+    },
+    {
+      "event": "400 Individual Medley",
+      "course": "SCM",
+      "time": "3:56.47",
+      "time_seconds": 236.47,
+      "athlete": "Ilya Borodin",
+      "country": "RUS",
+      "date": "2021-12-20",
+      "meet": "2021 World Short Course Championships",
+      "location": "Abu Dhabi, UAE"
+    },
+
+    {
+      "event": "50 Freestyle",
+      "course": "LCM",
+      "time": "21.75",
+      "time_seconds": 21.75,
+      "athlete": "Michael Andrew",
+      "country": "USA",
+      "date": "2017-08-25",
+      "meet": "2017 World Junior Championships",
+      "location": "Indianapolis, Indiana"
+    },
+    {
+      "event": "100 Freestyle",
+      "course": "LCM",
+      "time": "46.86",
+      "time_seconds": 46.86,
+      "athlete": "David Popovici",
+      "country": "ROU",
+      "date": "2022-08-13",
+      "meet": "2022 European Championships",
+      "location": "Rome, Italy"
+    },
+    {
+      "event": "200 Freestyle",
+      "course": "LCM",
+      "time": "1:42.97",
+      "time_seconds": 102.97,
+      "athlete": "David Popovici",
+      "country": "ROU",
+      "date": "2022-08-15",
+      "meet": "2022 European Championships",
+      "location": "Rome, Italy"
+    },
+    {
+      "event": "400 Individual Medley",
+      "course": "LCM",
+      "time": "4:09.38",
+      "time_seconds": 249.38,
+      "athlete": "Yumeki Kojima",
+      "country": "JPN",
+      "date": "2025-07-20",
+      "meet": "72nd Tokai High School Athletic Meet",
+      "location": "Suzuka, Japan"
+    }
+  ]
+}
