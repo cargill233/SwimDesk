@@ -1,0 +1,44 @@
+{
+  "template_id": "nfhs_championships_scy",
+  "meet_name": "NFHS Swimming Championships",
+  "organization": "NFHS",
+  "gender": "Mixed",
+  "course": "SCY",
+  "multi_day": false,
+  "created_at": "2026-02-06T00:00:00Z",
+  "updated_at": "2026-02-06T00:00:00Z",
+  "days": [
+    {
+      "day_index": 1,
+      "sessions": [
+        {
+          "session_name": "Finals",
+          "events": [
+            { "event_number": 1, "gender": "Women", "distance": 200, "stroke": "Medley Relay", "is_relay": true },
+            { "event_number": 2, "gender": "Men", "distance": 200, "stroke": "Medley Relay", "is_relay": true },
+            { "event_number": 3, "gender": "Women", "distance": 200, "stroke": "Freestyle", "is_relay": false },
+            { "event_number": 4, "gender": "Men", "distance": 200, "stroke": "Freestyle", "is_relay": false },
+            { "event_number": 5, "gender": "Women", "distance": 200, "stroke": "Individual Medley", "is_relay": false },
+            { "event_number": 6, "gender": "Men", "distance": 200, "stroke": "Individual Medley", "is_relay": false },
+            { "event_number": 7, "gender": "Women", "distance": 50, "stroke": "Freestyle", "is_relay": false },
+            { "event_number": 8, "gender": "Men", "distance": 50, "stroke": "Freestyle", "is_relay": false },
+            { "event_number": 9, "gender": "Women", "distance": 100, "stroke": "Butterfly", "is_relay": false },
+            { "event_number": 10, "gender": "Men", "distance": 100, "stroke": "Butterfly", "is_relay": false },
+            { "event_number": 11, "gender": "Women", "distance": 100, "stroke": "Freestyle", "is_relay": false },
+            { "event_number": 12, "gender": "Men", "distance": 100, "stroke": "Freestyle", "is_relay": false },
+            { "event_number": 13, "gender": "Women", "distance": 500, "stroke": "Freestyle", "is_relay": false },
+            { "event_number": 14, "gender": "Men", "distance": 500, "stroke": "Freestyle", "is_relay": false },
+            { "event_number": 15, "gender": "Women", "distance": 200, "stroke": "Freestyle Relay", "is_relay": true },
+            { "event_number": 16, "gender": "Men", "distance": 200, "stroke": "Freestyle Relay", "is_relay": true },
+            { "event_number": 17, "gender": "Women", "distance": 100, "stroke": "Backstroke", "is_relay": false },
+            { "event_number": 18, "gender": "Men", "distance": 100, "stroke": "Backstroke", "is_relay": false },
+            { "event_number": 19, "gender": "Women", "distance": 100, "stroke": "Breaststroke", "is_relay": false },
+            { "event_number": 20, "gender": "Men", "distance": 100, "stroke": "Breaststroke", "is_relay": false },
+            { "event_number": 21, "gender": "Women", "distance": 400, "stroke": "Freestyle Relay", "is_relay": true },
+            { "event_number": 22, "gender": "Men", "distance": 400, "stroke": "Freestyle Relay", "is_relay": true }
+          ]
+        }
+      ]
+    }
+  ]
+}
